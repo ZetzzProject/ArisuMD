@@ -1,12 +1,12 @@
  
 
-<h1 align="center">Arisu Multi Device<br></h1>
+<h1 align="center">Arisu Bot Multi Device<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/cFfRbZ7/cheemspic.jpg" alt="cheemspic" border="0">
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Arisu Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/ZetzzProject" target="_blank">Zetzz</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
