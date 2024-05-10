@@ -20,10 +20,7 @@ Arisu Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 
 ## ```Donate Me```
 
-- [`Binance`](https://i.ibb.co/W2gYn6S/binance.png)
-- [`PayPal`](https://www.paypal.me/josephxeon13)
-- [`GooglePay`](https://i.ibb.co/yQkqBS2/donate.png)
-- [`FamPay`](https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg)
+- [`Gopay`](https://i.ibb.co/ZdmJHgz/donate.png)
 
 ## ```Bot Support Group Chats```
 
@@ -33,10 +30,7 @@ Arisu Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD11/fork)
-
-## `Generate Pair Code For Session`
-[![Xeon](https://img.shields.io/badge/Xeon-Pair%20Code%20Generator-Pink?labelColor=Green&style=plastic&logo=Heroku&logoColor=White)](https://xeon-pair-code-2ec7a562198d.herokuapp.com/)
+- FORK THE REPOSITORY [Here](https://github.com/ZetzzProject/ArisuMD/fork)
 
 ## ` BUILDPACKS`
 
@@ -56,9 +50,9 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD11.git
-cd CheemsBot-MD11
-
+git clone https://github.com/ZetzzProject/ArisuMD.git
+cd ArisuMD
+npm i
 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`
@@ -73,8 +67,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD11
-cd CheemsBot-MD11
+git clone https://github.com/ZetzzProject/ArisuMD
+cd ArisuMD
 yarn install
 npm start
 ```
@@ -86,8 +80,9 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD11
+git clone https://github.com/ZetzzProject/ArisuMD
 cd CheemsBot-MD11
+npm i
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
