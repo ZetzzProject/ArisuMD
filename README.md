@@ -1,8 +1,8 @@
  
 
-<h1 align="center"><b>ArisuMD<br></h1>
+<h1 align="center">Arisu Multi Device<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/RC7JWDj/e258b5ae2b1cf8195d33743570dbe498.jpg" />
+<img src="https://i.ibb.co/cFfRbZ7/cheemspic.jpg" alt="cheemspic" border="0">
 </p>
 
 <p align="center">
