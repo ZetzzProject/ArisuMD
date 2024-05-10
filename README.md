@@ -59,14 +59,15 @@ npm start
 ```bash
 apt update
 apt upgrade
-pkg update && pkg upgrade
+pkg update && pkg upgrade -y
 pkg install bash
-pkg install libwebp
+pkg install libwebp -y
 pkg install git -y
 pkg install nodejs -y 
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
+pkg install nano -y
 git clone https://github.com/ZetzzProject/ArisuMD
 cd ArisuMD
 yarn install
@@ -76,9 +77,9 @@ npm start
 ```bash
 apt install nodejs 
 apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
+apt install ffmpeg 
+apt install libwebp 
+apt install imagemagick
 apt install bash
 git clone https://github.com/ZetzzProject/ArisuMD
 cd CheemsBot-MD11
@@ -89,3 +90,5 @@ npm start
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+## `Note`
+Change owner number on settings.js using ```nano settings.js```
