@@ -87,7 +87,8 @@ npm i
 npm start
 ```
 ## `One line installation`
-```apt update -y && apt upgrade -y && apt install git nodejs ffmpeg libwebp imagemagick python yarn && git clone https://github.com/ZetzzProject/ArisuMD && cd ArisuMD && rm -rf session && npm i && yarn install && npm start ```
+```bash
+apt update -y && apt upgrade -y && apt install git nodejs ffmpeg libwebp imagemagick python yarn && git clone https://github.com/ZetzzProject/ArisuMD && cd ArisuMD && rm -rf session && npm i && yarn install && npm start ```
 ## `For 24/7 Activation (Termux)`
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
